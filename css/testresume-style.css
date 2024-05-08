@@ -1,0 +1,91 @@
+body {
+    background-color: beige;
+}
+
+.container {
+    background-color: white;
+    max-width: 800px;
+    min-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3) ;
+
+}
+
+.header {
+    text-align: center;
+}
+
+.header h2 {
+    text-transform: capitalize;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/* .img-area {
+    width: 150px;
+    height: 150px;
+}
+
+.img-area img {
+    width: 100%;
+} */
+
+.info, .workexp {
+    padding: 30px;
+}
+
+h3 {
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+    margin: 30x;
+    border-radius: 70px 70px 70px 10px;
+}
+
+.containerSkills {
+    background-color: rgb(223, 223, 217);
+    margin-left: 50px;
+}
+
+.skills {
+    text-align: right;
+}
+
+.html {
+    width: 90%;
+    background-color: #006eff;
+}
+
+.css {
+    width: 80%;
+    background-color: #069b1f;
+}
+
+.javascript {
+    width: 70%;
+    background-color: #e1f342;
+}
+
+.info p, .workexp p {
+    padding-left: 20px;
+    margin-bottom: 3px;
+}
+
+.info h3, .workexp h3 {
+    padding-left: 20px;
+    margin-bottom: 5px;
+}
+
+.info h4, .workexp h4 {
+    padding-left: 20px;
+    margin-bottom: 5px;
+}
+
+.workexp ul {
+    padding-left: 60px;
+}
+
+.skills html {
+    padding-left: 5px;
+}
